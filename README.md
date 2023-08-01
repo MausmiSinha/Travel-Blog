@@ -1,6 +1,7 @@
-# RoamIO Travel Blog App
-
-![RoamIO Logo](app/src/main/res/drawable-v24/ReadmeLogo.png)
+<div align="center">
+  <img align="center" src="app/src/main/res/drawable-v24/readmelogo.png" alt="Error 404" height="150">
+  <h1 align="center">RoamIO Travel Blog App</h1>
+</div>
 
 RoamIO is a mobile application developed as a part of the Mobile Application Development project during our 3rd year of college. It serves as a travel blog platform that allows travel enthusiasts to share their adventures and experiences through blog posts. The app is built using Java and Android Studio and integrates Firebase for Google authentication and OTP-based mobile number authentication. Additionally, static data is loaded into the app using a ready-made API from Bitbucket.
 
@@ -13,8 +14,20 @@ Bitbucket API Used: https://bitbucket.org/dmytrodanylyk/travel-blog-resources/ra
 - Static Data Integration: The app fetches static data from a Bitbucket API to display additional travel information.
 
 ## Screenshots
+Here are some screenshots of the application:
 
-_(Insert some screenshots or a demo video here to showcase your app)_
+<div align="center">
+    <img src="images/Portfolio.gif" height="500"  alt="S1">
+  <img src="app/src/main/res/drawable-v24/a.jpg" height="600"  alt="S1">
+  <img src="app/src/main/res/drawable-v24/b.jpg" height="600"  alt="S2">
+  <img src="app/src/main/res/drawable-v24/c.jpg" height="600"  alt="S3">
+  <img src="app/src/main/res/drawable-v24/d.jpg" height="600"  alt="S4">
+  <img src="app/src/main/res/drawable-v24/e.jpg" height="600"  alt="S5">
+  <img src="app/src/main/res/drawable-v24/f.jpg" height="600"  alt="S6">
+  <img src="app/src/main/res/drawable-v24/g.jpg" height="600"  alt="S7">
+  <img src="app/src/main/res/drawable-v24/h.jpg" height="600"  alt="S8">
+  <img src="app/src/main/res/drawable-v24/i.jpg" height="600"  alt="S9">
+</div>
 
 ## Installation
 
